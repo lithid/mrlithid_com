@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.btn {
-  padding: 8px 8px;
+.btn .icon {
+  background: url("../images/circle-16.png") 0 0 no-repeat;
 }
