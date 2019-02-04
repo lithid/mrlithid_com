@@ -11,3 +11,8 @@
     {{ post.excerpt }}
   </article>
 {% endfor %}
+&nbsp;
+
+---
+
+Email @ support@mrlithid.com
