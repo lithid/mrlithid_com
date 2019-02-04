@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<a href="https://www.twitch.tv/mrlithid" class="button"><span>Twitch</spam></a>
+<a href="https://www.twitch.tv/mrlithid" class="button"><span>Twitch</span></a>
 
 You can use the [editor on GitHub](https://github.com/lithid/mrlithid_com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
