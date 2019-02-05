@@ -6,3 +6,7 @@
 .btn .icon {
   background: url("../images/circle-16.png") 0 0 no-repeat;
 }
+
+header h1:before {
+  content: "";
+}
